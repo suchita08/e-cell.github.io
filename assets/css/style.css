@@ -12,7 +12,19 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
-
+/* hr {
+  border: 0;
+    height: 0; 
+    box-shadow: 0 0 10px 1px black;
+}
+hr:after {  
+  content: "\00a0";  
+} */
+hr {
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
 a {
   color: #ec5538;
 }
