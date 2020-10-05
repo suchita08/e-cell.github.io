@@ -9,14 +9,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
 }
-/* hr {
-  border: 0;
-    height: 0; 
-    box-shadow: 0 0 10px 1px black;
-}
-hr:after {  
-  content: "\00a0";  
-} */
 hr {
   height: 12px;
   border: 0;
