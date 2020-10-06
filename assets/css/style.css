@@ -1051,6 +1051,12 @@ section {
   width:400px;
   
 }
+#pimg1
+{
+  height:150px;
+  width:600px;
+  
+}
 
 .clients img:hover {
   -webkit-filter: none;
